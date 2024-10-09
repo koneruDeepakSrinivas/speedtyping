@@ -1,4 +1,4 @@
-# follow me on twitter @PY4ALL
+#This is the python code for Speedtyping 
 
 from tkinter import *
 from tkinter import ttk
